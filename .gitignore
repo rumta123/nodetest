@@ -1,0 +1,8 @@
+# Игнорирование папки node_modules и её содержимого
+m1/node_modules/
+# Игнорирование папки node_modules и её содержимого
+microservice-M2/node_modules/
+
+# Игнорирование папки node_modules и её содержимого
+proverka/node_modules/
+
